@@ -2,6 +2,8 @@
 #include <algorithm>
 using namespace std;
 
+//pull req ke liye comment add karra hu
+
 void rotate_stl(int a[][1000], int n) {
     //reverse each row using stl
     for(int row=0;row<n;row++) {
