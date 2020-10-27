@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//esai 
 void magical_park(char a[][100], int rows, int cols, int k, int s) {
     bool success = true;
     for(int i=0;i<rows;i++) {
